@@ -14,15 +14,12 @@ ref = [
  'https://www.bing.com/',
  'https://www.yandex.ru/',
  'https://search.yahoo.com/',
- 'https://www.facebook.com/',
- 'https://twitter.com/',
- 'https://www.youtube.com/'
 ]
 
 uagz = [
- 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0',
- 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0',
- 'Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0'
+ 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0',
+ 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0',
+ 'Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0'
 ]
 
 scraper = cfscrape.create_scraper()
