@@ -1,4 +1,12 @@
-import os, threading, time, random, sys, random, string, cfscrape, requests
+import os
+import threading
+import time
+import random
+import sys
+import random
+import string
+import cfscrape
+import requests
 
 ref = [
  'https://duckduckgo.com/',
